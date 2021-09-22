@@ -64,8 +64,8 @@ html {
     opacity: 50%;
 }
 .item8 {
-    display: grid;
-    grid-column: 3 / 5;
+    display: flex;
+    grid-column: 3 / 6;
     grid-row: 4 / 5; 
     align-items: center;
     justify-items: center;
@@ -79,6 +79,14 @@ html {
 .item8 a:hover{
     color:gray;
     text-decoration: underline;
+}
+.item8 span {
+    width: 40px;
+    height: 40px;
+    background-image: url('https://img.icons8.com/ios-glyphs/30/000000/twitter-circled--v2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 .item9 {
     display: grid;
@@ -107,6 +115,7 @@ html {
         grid-row: 1 / 2;
     }
     .item8 {
+        justify-content: center;
         grid-column: 1 / 11;
         grid-row: 2 / 3;
     }
