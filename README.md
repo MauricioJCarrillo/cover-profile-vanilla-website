@@ -1,12 +1,12 @@
-# First CSS Grid project:
+# Grid Layout Cover
 
-First project using CSS Grid Layout.
+First project using CSS Grid Layout. If you want to create a project like this, you can check out this course: [Curso Profesional de CSS Grid Layout - 2021](https://platzi.com/cursos/css-grid-layout/) on Platzi.
 
-## GitHub Pages:
+## GitHub Pages
 
-[Practice - CSS Grid](https://mauriciojcarrillo.github.io/9.curso_profesional_de_CSS_grid_layout/)
+[Grid Layout Cover](https://mauriciojcarrillo.github.io/grid-layout-cover)
 
-## Technologies and concepts:
+## Technologies and concepts
 
 - HTML.
 - CSS Grid.
