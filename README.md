@@ -10,5 +10,5 @@ First project using CSS Grid Layout. If you want to create a project like this, 
 
 - HTML.
 - CSS.
-- Dsiplay Grid.
+- Display Grid.
 - Responsive Design.
